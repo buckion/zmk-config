@@ -1,4 +1,4 @@
-#include "cradio.dtsi"
+#include "buckyboard.dtsi"
 
 &default_transform {
 	col-offset = <17>;
