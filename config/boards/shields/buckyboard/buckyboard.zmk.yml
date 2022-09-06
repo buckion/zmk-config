@@ -1,0 +1,11 @@
+file_format: "1"
+id: buckyboard
+name: buckyboard
+type: shield
+url: https://ithub.com/buckion/keyboards
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - buckyboard_left
+  - buckyboard_right
