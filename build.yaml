@@ -16,6 +16,6 @@ include:
   - board: nice_nano_v2
     shield: buckyboard_left
   - board: nice_nano_v2
-    shield: buckyboard 
+    shield: buckyboard_right
   - board: nice_nano_v2
-    shield: settings_reset_right
+    shield: settings_reset
